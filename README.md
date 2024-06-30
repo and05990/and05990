@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=and05990&label=Visualizzazioni%20del%20profilo&color=0e75b6&style=flat" alt="and05990" /> </p>
 
-- 🌱 Attualmente sto imparando **Svelte e React Native**
+- 🌱 Attualmente sto imparando **Swift e SwiftUI**
 
 - 📫 Come contattarmi **andrea.quagliotti05@gmail.com**
 </div><h3 align="left">Cercami su:</h3>
